@@ -1,5 +1,5 @@
-# Sandbox de Git
-Este es un repositorio de prueba para conocer el sistema, simulando un documento de investigación UX
+# Training Research
+Esta es una branch que nace del master, editada con info de Training
 
 ## Estructura de carpetas
 #### Research: 
